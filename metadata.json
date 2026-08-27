@@ -1,0 +1,6 @@
+{
+  "name": "GJK Rozvrhovač a Přihlašovač Akcí",
+  "description": "Aplikace pro studenty a vyučující pro přihlašování na programy školních akcí, hlídání kapacit, kolizí v rozvrhu a hodinové dotace s napojením na Google Tabulky.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
